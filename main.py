@@ -1,1 +1,1 @@
-print("ABOBA")
+print("ABOBA != OBEME")
